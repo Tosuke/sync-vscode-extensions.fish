@@ -1,6 +1,6 @@
 # sync-vscode-extensions
 
-[![MIT License]([mit-badge])](LICENSE)
+[![MIT License][mit-badge]](LICENSE)
 
 Sync your vscode extensions as text
 
